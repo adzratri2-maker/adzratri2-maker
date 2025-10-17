@@ -1,4 +1,5 @@
-![Foto di toko kacamata](https://github.com/user-attachments/assets/272a3a7b-5344-432c-b201-5a186204aef3)
+<img src="https://private-user-images.githubusercontent.com/234306053/502589408-272a3a7b-5344-432c-b201-5a186204aef3.jpeg" alt="Foto di toko kacamata" width="500"/>
+
 # 💫 About Me:
 🌸 About Me:<br><br>🎓 I’m currently a college student learning about tech and development<br><br>🤝 I’m looking to collaborate on fun and creative projects<br><br>🌱 I’m currently learning HTML, CSS, and a bit of JavaScript<br><br>💬 Ask me about student life or how to survive deadlines 😆<br><br>📱 When I’m not coding, you’ll find me scrolling through TikTok<br><br>😴 Fun fact: I can take naps anytime, anywhere!
 
