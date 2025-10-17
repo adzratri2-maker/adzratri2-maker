@@ -1,3 +1,7 @@
+<img https://ibb.co.com/Hm2YSGb
+
+
+
 # 💫 About Me:
 🌸 About Me:<br><br>🎓 I’m currently a college student learning about tech and development<br><br>🤝 I’m looking to collaborate on fun and creative projects<br><br>🌱 I’m currently learning HTML, CSS, and a bit of JavaScript<br><br>💬 Ask me about student life or how to survive deadlines 😆<br><br>📱 When I’m not coding, you’ll find me scrolling through TikTok<br><br>😴 Fun fact: I can take naps anytime, anywhere!
 
